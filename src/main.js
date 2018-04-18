@@ -17,7 +17,7 @@ import('../node_modules/font-awesome/css/font-awesome.min.css');
 import('../node_modules/material-design-icons/iconfont/material-icons.css');
 
 
-Vue.use(VueSocketIO, socketio('http://192.168.110.130:8081'), store);
+Vue.use(VueSocketIO, socketio('http://baezic-chat-node.herokuapp.com/'), store);
 Vue.use(Vuetify, {
   theme: {
     primary: '#1976D2',

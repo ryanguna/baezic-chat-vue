@@ -1,7 +1,7 @@
 {
   "name": "baesic-chat-vuejs",
   "version": "1.0.0",
-  "description": "vuejs part if baesic-chat",
+  "description": "vuejs part of baesic-chat",
   "author": "Ryan GUnawardana",
   "private": true,
   "scripts": {

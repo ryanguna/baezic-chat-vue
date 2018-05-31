@@ -2,7 +2,7 @@
   "name": "baesic-chat-vuejs",
   "version": "1.0.0",
   "description": "vuejs part of baesic-chat",
-  "author": "Ryan GUnawardana",
+  "author": "Ryan Gunawardana",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
